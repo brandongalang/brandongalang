@@ -6,14 +6,14 @@ Product-minded engineer building at the intersection of AI agents, UX, and data 
 
 | Project | Description | Tech |
 | --- | --- | --- |
-| [IFS Therapy Companion](https://github.com/brandongalang/IFS-chat-app) | AI therapy companion with agentic tool use, parts tracking, and D3.js visualization | Next.js 15, Mastra, Supabase, D3.js |
-| [Council Chat](https://github.com/brandongalang/council-chat) | Multi-model LLM chat with judge synthesis for stronger outputs than any single model | React, OpenRouter, multi-model |
-| [SpendGuard](https://github.com/brandongalang/SpendGuard) | Agentic purchase approval system with policy engine, split detection, and human-in-the-loop workflows | Next.js, Mastra, CopilotKit, Drizzle |
-| [Netmap](https://github.com/brandongalang/netmap) | Privacy-first job search intelligence tool built around LinkedIn network exports | React 19, Vite, Express, Vertex AI |
-| [UX Engineering Skills](https://github.com/brandongalang/ux-engineering-skills) | Three-skill Claude Code pipeline for strategy, specs, and visual polish | Claude Code Skills |
-| [Portfolio Intelligence PRD](https://github.com/brandongalang/portfolio-intelligence-prd) | Public PRD for an agentic platform synthesizing cross-portfolio PE intelligence | Product doc, MCP architecture |
-| [AI Adoption Case Study](https://github.com/brandongalang/ai-adoption-case-study) | Remotion-powered animated case study video for enterprise AI adoption | React, Remotion, TypeScript |
-| [StS2 Analytics](https://github.com/brandongalang/sts2-analytics) | Data pipeline turning Slay the Spire 2 saves into SQLite exports and a Streamlit dashboard | Python, SQLite, Streamlit |
+| [**Parts Garden**](https://github.com/brandongalang/IFS-chat-app) · IFS companion | Agentic IFS therapy companion: parts tracking, tools, D3 “garden” visualization | Next.js 15, Mastra, Supabase, D3.js |
+| [**Roundtable**](https://github.com/brandongalang/council-chat) · model council | Multi-model LLM chat with judge synthesis—stronger than any single model | React, OpenRouter, multi-model |
+| [**SpendGuard**](https://github.com/brandongalang/SpendGuard) · approvals | Agentic purchase approval: policy engine, split detection, human-in-the-loop | Next.js, Mastra, CopilotKit, Drizzle |
+| [**Lattice**](https://github.com/brandongalang/netmap) · network intel | Privacy-first job-search intelligence from LinkedIn exports—see the network before you apply | React 19, Vite, Express, Vertex AI |
+| [**UX Relay**](https://github.com/brandongalang/ux-engineering-skills) · 3 skills | Claude Code pipeline: strategy → specs → visual polish | Claude Code Skills |
+| [**Apex Playbook**](https://github.com/brandongalang/portfolio-intelligence-prd) · PRD | Public PRD for an agentic portfolio-data platform | Product doc, MCP architecture |
+| [**Adoption Reel**](https://github.com/brandongalang/ai-adoption-case-study) · Remotion | Animated case study on enterprise AI adoption | React, Remotion, TypeScript |
+| [**Spire Lab**](https://github.com/brandongalang/sts2-analytics) · runs → SQL | Turn _Slay the Spire 2_ saves into SQLite + Streamlit dashboards | Python, SQLite, Streamlit |
 
 ## Tech I Work With
 
