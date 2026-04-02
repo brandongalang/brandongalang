@@ -12,7 +12,6 @@ Product-minded engineer building at the intersection of AI agents, UX, and data 
 | [**Lattice**](https://github.com/brandongalang/netmap) · network intel | Privacy-first job-search intelligence from LinkedIn exports—see the network before you apply | React 19, Vite, Express, Vertex AI |
 | [**UX Relay**](https://github.com/brandongalang/ux-engineering-skills) · 3 skills | Claude Code pipeline: strategy → specs → visual polish | Claude Code Skills |
 | [**Apex Playbook**](https://github.com/brandongalang/portfolio-intelligence-prd) · PRD | Public PRD for an agentic portfolio-data platform | Product doc, MCP architecture |
-| [**Adoption Reel**](https://github.com/brandongalang/ai-adoption-case-study) · Remotion | Animated case study on enterprise AI adoption | React, Remotion, TypeScript |
 | [**Spire Lab**](https://github.com/brandongalang/sts2-analytics) · runs → SQL | Turn _Slay the Spire 2_ saves into SQLite + Streamlit dashboards | Python, SQLite, Streamlit |
 
 ## Tech I Work With
