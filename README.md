@@ -6,13 +6,14 @@ Product-minded engineer building at the intersection of AI agents, UX, and data 
 
 | Project | Description | Tech |
 | --- | --- | --- |
-| [**Parts Garden**](https://github.com/brandongalang/IFS-chat-app) · IFS companion | Agentic IFS therapy companion: parts tracking, tools, D3 “garden” visualization | Next.js 15, Mastra, Supabase, D3.js |
-| [**Roundtable**](https://github.com/brandongalang/council-chat) · model council | Multi-model LLM chat with judge synthesis—stronger than any single model | React, OpenRouter, multi-model |
-| [**SpendGuard**](https://github.com/brandongalang/SpendGuard) · approvals | Agentic purchase approval: policy engine, split detection, human-in-the-loop | Next.js, Mastra, CopilotKit, Drizzle |
-| [**Lattice**](https://github.com/brandongalang/netmap) · network intel | Privacy-first job-search intelligence from LinkedIn exports—see the network before you apply | React 19, Vite, Express, Vertex AI |
-| [**UX Relay**](https://github.com/brandongalang/ux-engineering-skills) · 3 skills | Claude Code pipeline: strategy → specs → visual polish | Claude Code Skills |
-| [**Apex Playbook**](https://github.com/brandongalang/portfolio-intelligence-prd) · PRD | Public PRD for an agentic portfolio-data platform | Product doc, MCP architecture |
-| [**Spire Lab**](https://github.com/brandongalang/sts2-analytics) · runs → SQL | Turn _Slay the Spire 2_ saves into SQLite + Streamlit dashboards | Python, SQLite, Streamlit |
+| [**Roundtable**](https://github.com/brandongalang/roundtable) · model council | Multi-model LLM chat with judge synthesis—stronger than any single model | React, OpenRouter, multi-model |
+| [**SpendGuard**](https://github.com/brandongalang/spend-guard) · approvals | Agentic purchase approval: policy engine, split detection, human-in-the-loop | Next.js, Mastra, CopilotKit, Drizzle |
+| [**Lattice**](https://github.com/brandongalang/lattice) · network intel | Privacy-first job-search intelligence from LinkedIn exports—see the network before you apply | React 19, Vite, Express, Vertex AI |
+| [**ChatMBA OSS**](https://github.com/brandongalang/chatmba-oss) · MBA app | Self-hostable MBA application workspace with SQLite and bring-your-own-model support | TypeScript, SQLite |
+| [**UX Relay**](https://github.com/brandongalang/ux-relay) · 3 skills | Claude Code pipeline: strategy → specs → visual polish | Claude Code Skills |
+| [**Apex Playbook**](https://github.com/brandongalang/apex-playbook) · PRD | Public PRD for an agentic portfolio-data platform | Product doc, MCP architecture |
+| [**Spire Lab**](https://github.com/brandongalang/spire-lab) · runs → SQL | Turn _Slay the Spire 2_ saves into SQLite + Streamlit dashboards | Python, SQLite, Streamlit |
+| [**goal-at-home**](https://github.com/brandongalang/goal-at-home) · agent goals | Session goal enforcement for coding agents (CLI + hooks + skills) | Go |
 
 ## Tech I Work With
 
