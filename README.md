@@ -3,6 +3,8 @@
 **Applied AI & GTM Engineering at Vercel** · PM turned builder.  
 Writing **[Leverage Loops](https://leverageloops.substack.com)** — field notes on agent workspaces, model routing, and operator systems.
 
+📖 **[The Applied AI & Agent Stack](https://github.com/brandongalang/ai-stack)** *(Updated Aug 21, 2026)* — my daily model routing, oh-my-pi agent loops, and MCP setup.
+
 [X (@brandon_galang)](https://x.com/brandon_galang) · [Website](https://brandongalang.com) · [Substack](https://leverageloops.substack.com) · [LinkedIn](https://www.linkedin.com/in/brandongalang)
 
 ---
