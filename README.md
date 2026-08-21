@@ -1,26 +1,26 @@
 # Brandon Galang
 
-Engineer by training, product by experience, developer by agents.
-Writing [Leverage Loops](https://leverageloops.substack.com).
+**Applied AI & GTM Engineering at Vercel** · PM turned builder.  
+Writing **[Leverage Loops](https://leverageloops.substack.com)** — field notes on agent workspaces, model routing, and operator systems.
 
-## Featured
+[X (@brandon_galang)](https://x.com/brandon_galang) · [Website](https://brandongalang.com) · [Substack](https://leverageloops.substack.com) · [LinkedIn](https://www.linkedin.com/in/brandongalang)
 
-| Project | What it is |
-| --- | --- |
-| [goal-at-home](https://github.com/brandongalang/goal-at-home) | Session goal enforcement for coding agents (CLI + hooks) |
-| [Roundtable](https://github.com/brandongalang/roundtable) | Multi-model chat with judge synthesis |
+---
 
-## Writing
+## Projects & Experiments
 
-Field notes at [brandongalang.com](https://brandongalang.com) / [Leverage Loops](https://leverageloops.substack.com).
+Random tools, prototypes, and case studies built along the way:
 
-- [How I Built an AI-First Knowledge System That Actually Works](https://leverageloops.substack.com/p/how-i-built-an-ai-first-knowledge)
-- [The Four Levels of AI Implementation](https://leverageloops.substack.com/p/the-four-levels-of-ai-implementation)
+| Project | What It Is | Stack |
+| --- | --- | --- |
+| [**goal-at-home**](https://github.com/brandongalang/goal-at-home) | Session goal enforcement for coding agents via CLI + hooks | Go |
+| [**Roundtable**](https://github.com/brandongalang/roundtable) | Multi-model chat with judge synthesis | Next.js, Vercel AI SDK |
+| [**SMB-PE-Agent**](https://github.com/brandongalang/SMB-PE-Agent) | RAG & matching engine over SEC Form ADV data | Python, PydanticAI, ChromaDB |
+| [**enablement-lab**](https://github.com/brandongalang/enablement-lab) | Internal AI enablement hub & executive pulse dashboard | Next.js, React 19, Tailwind |
+| [**ctxpack**](https://github.com/brandongalang/ctxpack) | Clipboard-first CLI for structured agent handoffs | Shell, Codex Skill |
+
+---
 
 ## Currently
 
-Writing Leverage Loops. Building session-goal enforcement and human review gates for coding agents.
-
-## Connect
-
-[Website](https://brandongalang.com) · [Substack](https://leverageloops.substack.com) · [X](https://x.com/brandon_galang)
+Building agent workflows, exploring frontier models, and sharing daily observations on [X](https://x.com/brandon_galang) and [Substack](https://leverageloops.substack.com).
