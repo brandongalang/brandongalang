@@ -13,6 +13,7 @@ Random tools, prototypes, and case studies built along the way:
 
 | Project | What It Is | Stack |
 | --- | --- | --- |
+| [**SpendGuard**](https://github.com/brandongalang/spend-guard) | AI purchase approval routing with deterministic policy rules | Next.js, Mastra, CopilotKit |
 | [**goal-at-home**](https://github.com/brandongalang/goal-at-home) | Session goal enforcement for coding agents via CLI + hooks | Go |
 | [**Roundtable**](https://github.com/brandongalang/roundtable) | Multi-model chat with judge synthesis | Next.js, Vercel AI SDK |
 | [**SMB-PE-Agent**](https://github.com/brandongalang/SMB-PE-Agent) | RAG & matching engine over SEC Form ADV data | Python, PydanticAI, ChromaDB |
